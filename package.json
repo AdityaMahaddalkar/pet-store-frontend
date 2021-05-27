@@ -1,0 +1,23 @@
+{
+  "name": "pet-store-frontend",
+  "version": "1.0.0",
+  "description": "Frontend service for pet store application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdityaMahaddalkar/pet-store-frontend.git"
+  },
+  "keywords": [
+    "kubernetes",
+    "ui"
+  ],
+  "author": "AdiM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdityaMahaddalkar/pet-store-frontend/issues"
+  },
+  "homepage": "https://github.com/AdityaMahaddalkar/pet-store-frontend#readme"
+}
